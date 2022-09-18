@@ -243,8 +243,7 @@ const bigProjects = {
     {
       image: require("./assets/images/taxdraw.png"),
       projectName: "TaxDraw",
-      projectDesc: "A legal business company which helps businesses to registered officially as a legal entity in India
- I've improved the backend in Laravel as an outsourcing partner to them.",
+      projectDesc: "A legal business company which helps businesses to registered officially as a legal entity in India. I have improved the backend in Laravel as an outsourcing partner to them.",
       footerLink: [
         {
           name: "Visit Website",
