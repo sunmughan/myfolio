@@ -298,7 +298,7 @@ const achievementSection = {
       title: "IBM Certified Solution Developer",
       subtitle:
         "Developed a Google Cloud PWA that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/gcpa.png"),
+      image: require("./assets/images/ibmsp.png"),
       imageAlt: "Google Professional Cloud Architect",
       footerLink: [
         {
