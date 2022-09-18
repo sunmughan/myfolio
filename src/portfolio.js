@@ -285,7 +285,7 @@ const achievementSection = {
       title: "Google Professional Cloud Architect",
       subtitle:
         "Developed a Google Cloud PWA that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/gcpa.png"),
+      image: require("./assets/images/gpca.png"),
       imageAlt: "Google Professional Cloud Architect",
       footerLink: [
         {
