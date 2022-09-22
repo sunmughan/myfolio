@@ -35,11 +35,10 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/sunmughan",
   linkedin: "https://www.linkedin.com/in/sunmughan/",
-  gmail: "sunmughan@gmail.com",
   gitlab: "https://gitlab.com/sunmughan",
   facebook: "https://www.facebook.com/sunmughan",
   medium: "https://medium.com/@sunmughan",
-  stackoverflow: "https://www.quora.com/profile/Sunmughan-Swamy",
+  instagram: "https://www.instagram.com/sunmughan",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -191,7 +190,7 @@ const workExperiences = {
       company: "QwikList",
       companylogo: require("./assets/images/qwiklist.png"),
       date: "September 2021 – January 2022",
-      desc: "To carry on a business of rendering local search engine optimization services in India for providing business information about the characteristics, interest and other attributes of various types of businesses, projects, individuals, organizations. To carry on business in India as service provider in relation to and for facilitation of purchase and sale of any kinds of goods or services by any third parties through any medium, including by developing and operating a portal for listing of products and services and enabling users to purchase such goods or services from third party vendors and, providing any services in relation thereto, including promotion of products or services, payment collection, packaging and delivery of products, customer care service and quality control. To carry on the business of on line shopping, Internet advertising and marketing, creating virtual malls, stores, shops, creating shopping catalogues, providing secured payment processing, net commerce solutions for business to business and business to consumers. To promote, advise, organize and to carry on marketing and distribution channel for various goods and service providers and to provide various solution for digital payments for its users through multiple platforms such as website, mobile apps and through third party applications.",
+      desc: "To carry on a business of rendering local search engine optimization services in India for providing business information about the characteristics, interest and other attributes of various types of businesses, projects, individuals, organizations.",
       descBullets: [
         "Developed the digital platform for Qwiklist (Web application and Mobile App).",
         "Registered the company in Private Limited and helped in getting recognised in Indore (M.P)."
@@ -209,7 +208,7 @@ const workExperiences = {
       company: "DroidAdda",
       companylogo: require("./assets/images/dadda.png"),
       date: "Jul 2015 – Dec 2017",
-      desc: "I created Droidadda on July 29 2015 as a personal blog. Soon after getting huge response from the user i made it a public blogging platform where i post latest trending articles on various topics like Android,Blogging,Games,Apps,Development,Marketing,etc for my beloved readers on Droidadda."
+      desc: "I created Droidadda on July 29 2015 as a personal blog. Soon after getting huge response from the user i made it a public blogging platform where i post latest trending articles on various topics like Android, Blogging, Games, App, Coding for my beloved readers on Droidadda."
     }
   ]
 };
